@@ -1,3 +1,21 @@
+body{
+    font-family: 'Yatra One', cursive;
+}
 .shoes-card{
     border: 0;
+}
+.shoes-card-footer{
+    background-color: white;
+    border: 0;
+}
+.secton1-bg{
+    background-color:#fcf9f8;
+    padding: 5px;
+}
+.secton4-bg{
+    background-color: ivory;
+    padding: 5px;
+}
+.color-h1-btn{
+    color: tomato;
 }
